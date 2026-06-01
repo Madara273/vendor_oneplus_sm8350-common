@@ -1336,7 +1336,6 @@ PRODUCT_PACKAGES += \
     tftp_server \
     thermal-engine \
     time_daemon \
-    vendor_modprobe \
     vppservice \
     wfdhdcphalservice \
     wfdvndservice \
